@@ -1,2 +1,2 @@
 # Python-Project
-Creating scripts with functions using Python
+Creating scripts with functions using Python programming language
