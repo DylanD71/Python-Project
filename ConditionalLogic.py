@@ -10,9 +10,9 @@ if choice1 == "left":
                     'Type "swim" to swim across.\n').lower()
     if choice2 == "wait":
         choice3 = input("You arrive at the island intact."
-                        "There is a house 3 doors. One red, "
+                        "There is a house with 3 doors. One red, "
                         "one yellow and one blue. "
-                        "Which colour do you choose?\n").lower()
+                        "Which colour door do you choose?\n").lower()
         if choice3 == "red":
             print("you triggered a trap door and fell. Game over")
         elif choice3 == "yellow":
