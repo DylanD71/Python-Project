@@ -1,6 +1,6 @@
 print("Welcome to Treasure Island")
 print("Mission is to find treasure")
-choice1 = input('You\'re at a crossroad, where direction do you go in? 'left
+choice1 = input('You\'re at a crossroad, which direction do you go in?' 
                 'Type "left" or "right".\n'). lower()
 
 if choice1 == "left":
